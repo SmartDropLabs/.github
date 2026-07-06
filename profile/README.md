@@ -1,6 +1,6 @@
 <div align="center">
 
-# SmartDrop <img width="100" height="100" alt="smartdrop-logo" src="https://github.com/user-attachments/assets/a19380bb-3241-4611-971d-a1f2b197745e" />
+# SmartDrop <img width="40" height="40" alt="smartdrop-logo" src="https://github.com/user-attachments/assets/a19380bb-3241-4611-971d-a1f2b197745e" />
 
 
 **A liquidity-oriented airdrop mechanism on Stellar.**
