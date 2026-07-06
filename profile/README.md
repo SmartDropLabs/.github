@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # SmartDrop <img width="20" height="20" alt="smartdrop-logo" src="https://github.com/user-attachments/assets/a19380bb-3241-4611-971d-a1f2b197745e" />
 
@@ -9,9 +9,7 @@ Participants lock Stellar assets in Soroban farming pools and accrue airdrop cre
 
 [Frontend](https://github.com/SmartDropLabs/smartdrop-frontend) · [Backend](https://github.com/SmartDropLabs/smartdrop-backend) · [Contracts](https://github.com/SmartDropLabs/smartdrop-contracts)
 
-</div>
 
----
 
 ## What this is
 
